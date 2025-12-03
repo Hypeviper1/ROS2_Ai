@@ -1,0 +1,13 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+python-dotenv>=1.0.0
+
+# ROS2 Python client
+# Note: rclpy should be installed via ROS2, not pip
+# If you must install via pip: rclpy
+
+# Optional: If using OpenAI instead of Azure
+# openai>=1.0.0
